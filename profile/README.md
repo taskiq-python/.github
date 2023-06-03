@@ -20,4 +20,8 @@ If you want to submit a new issue with feedback and details if any, please creat
 
 We're thankful to all our sponsors.
 
+<div align="center">
+
 <!-- sponsors --><!-- sponsors -->
+
+<div>
