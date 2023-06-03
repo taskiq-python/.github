@@ -3,7 +3,7 @@ name: Update sponsors
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   deploy:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SPONSORS_PAT }}
           file: "profile/README.md"
           organization: true
 
