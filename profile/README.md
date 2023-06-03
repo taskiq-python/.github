@@ -15,3 +15,9 @@ If you have any question, please ask it on github [discussions](https://github.c
 If you're using taskiq and want to say thanks, please write a messsage in our [discussion](https://github.com/orgs/taskiq-python/discussions/69).
 
 If you want to submit a new issue with feedback and details if any, please create it in main [taskiq repo](https://github.com/taskiq-python/taskiq), we will transfer it to another repo if necessary.
+
+## Sponsors
+
+We're thankful to all our sponsors.
+
+<!-- sponsors --><!-- sponsors -->
