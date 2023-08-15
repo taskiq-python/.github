@@ -10,7 +10,9 @@ This project is inspired by celery and asyncio. We found a problem, that celery 
 
 You can read more in our oficial documentation: https://taskiq-python.github.io/ .
 
-If you have any question, please ask it on github [discussions](https://github.com/orgs/taskiq-python/discussions/categories/q-a).
+We have discord server for instant messaging: https://discord.gg/XraYR5CG43.
+
+If you have any question, please ask it on github [discussions](https://github.com/orgs/taskiq-python/discussions/categories/q-a) or on discord.
 
 If you're using taskiq and want to say thanks, please write a messsage in our [discussion](https://github.com/orgs/taskiq-python/discussions/69).
 
