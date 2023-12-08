@@ -26,6 +26,6 @@ We're thankful to all our sponsors.
 
 <div align="center">
 
-<!-- sponsors --><a href="https://github.com/anomaly"><img src="https://github.com/anomaly.png" width="60px" alt="Anomaly" /></a><a href="https://github.com/kevinhikaruevans"><img src="https://github.com/kevinhikaruevans.png" width="60px" alt="Kevin Evans" /></a><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/anomaly"><img src="https://github.com/anomaly.png" width="60px" alt="Anomaly" /></a><!-- sponsors -->
 
 <div>
